@@ -4,7 +4,7 @@
 ![](Rechercher.png)
 
 ## Détail d'un film
-![](Details.png)
+![](Details.jpg)
 
 ## Favoris
-![](Favoris.png)
+![](Favoris.jpg)
