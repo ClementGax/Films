@@ -1,4 +1,4 @@
-const API_TOKEN = "4a0ee4522ecf0d06c17a82498d5f7990"
+const API_TOKEN = "4a0ee4522ecf0d06c17axxxxxxxxxxxx"
 
 
 export function getFilmsFromApiWithSearchedText (text, page) {
